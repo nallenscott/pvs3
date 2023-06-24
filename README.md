@@ -43,7 +43,6 @@ The following IAM policy is required for pvs3 to access the S3 bucket. Make sure
 }
 ```
 
-
 ## Backup
 
 Files are stored in the target bucket/prefix as `backup-YYYY-MM-DD-HH-MM-SS.tar.gz`. You may need to include a volume mount for `/etc/yacron.d`, depending on your docker setup.
