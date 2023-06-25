@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="pvs3.png" width=400 alt=""><br>
-  pvs3<br>
+  <img src="pvs3.png" width=300 alt="">
 </h1>
 
 ## Introduction
