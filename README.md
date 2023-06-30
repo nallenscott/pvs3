@@ -2,8 +2,6 @@
   <img src="pvs3.png" width=300 alt="">
 </h1>
 
-## Introduction
-
 pvs3 is a simple docker image for backing up and restoring directories using S3. It's based on [yacron](https://github.com/gjcarneiro/yacron), and is meant to be used as a sidecar for backups, or as an init container for restores.
 
 ## Configuration
